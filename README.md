@@ -1,3 +1,3 @@
 Agricultural-Information-Hu
 
-https://officialontar.github.io/Agricultural-Information-Hub/
+https://officialontar.github.io/Agricultural-Information-Hu
